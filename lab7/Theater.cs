@@ -1,9 +1,9 @@
 ﻿using System;
 namespace lab7Tests
 {
-    public class PublicBuilding
+    public class Theater : PublicBuilding
     {
-        public PublicBuilding()
+        public Theater()
         {
         }
     }
