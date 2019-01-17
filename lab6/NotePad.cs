@@ -10,11 +10,6 @@ namespace lab6
             public DateTime Date { get; set; }
             public string Text { get; set; }
 
-            public Note()
-            {
-
-            }
-
             public Note(DateTime date, string text)
             {
                 Date = date;
