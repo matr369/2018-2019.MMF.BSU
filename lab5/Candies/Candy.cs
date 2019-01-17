@@ -1,6 +1,7 @@
 ﻿using System;
 
-namespace lab5.Candies {
+namespace lab5.Candies
+{
 	public class Candy
 	{
 		public string Name { get; }
@@ -17,4 +18,5 @@ namespace lab5.Candies {
 			SugarWeight = sugarWeight;
 			Weight = weight;
 		}
-	} }
+	}
+}
