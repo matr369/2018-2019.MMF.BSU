@@ -1,0 +1,59 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab3", "lab1\lab3.csproj", "{F251A279-16E3-46D0-BC58-B2B3641C02BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab3Tests", "lab3Tests\lab3Tests.csproj", "{38BA4B8B-31FC-459F-AD9B-2C4FEEA844F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab5", "lab4\lab5.csproj", "{865631E5-D59B-4F0D-B285-B07CA17FFA7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab6", "lab6\lab6.csproj", "{31E3F170-BFA0-4312-A99A-7AA1DC4E61DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab5Tests", "lab5Tests\lab5Tests.csproj", "{8B02C0DF-4421-45F5-BE0A-5C95CCC08D9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab6Tests", "lab6Tests\lab6Tests.csproj", "{F7E2D034-7443-492C-BED9-42B175B55F81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab7", "lab7\lab7.csproj", "{E1939EC5-11F2-415D-88A9-77D13E6BDE52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab7Tests", "lab7Tests\lab7Tests.csproj", "{738DAD7C-E711-4C26-A294-F79F639DEB07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F251A279-16E3-46D0-BC58-B2B3641C02BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F251A279-16E3-46D0-BC58-B2B3641C02BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F251A279-16E3-46D0-BC58-B2B3641C02BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F251A279-16E3-46D0-BC58-B2B3641C02BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38BA4B8B-31FC-459F-AD9B-2C4FEEA844F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38BA4B8B-31FC-459F-AD9B-2C4FEEA844F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38BA4B8B-31FC-459F-AD9B-2C4FEEA844F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38BA4B8B-31FC-459F-AD9B-2C4FEEA844F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{865631E5-D59B-4F0D-B285-B07CA17FFA7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{865631E5-D59B-4F0D-B285-B07CA17FFA7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{865631E5-D59B-4F0D-B285-B07CA17FFA7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{865631E5-D59B-4F0D-B285-B07CA17FFA7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31E3F170-BFA0-4312-A99A-7AA1DC4E61DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31E3F170-BFA0-4312-A99A-7AA1DC4E61DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31E3F170-BFA0-4312-A99A-7AA1DC4E61DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31E3F170-BFA0-4312-A99A-7AA1DC4E61DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B02C0DF-4421-45F5-BE0A-5C95CCC08D9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B02C0DF-4421-45F5-BE0A-5C95CCC08D9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B02C0DF-4421-45F5-BE0A-5C95CCC08D9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B02C0DF-4421-45F5-BE0A-5C95CCC08D9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7E2D034-7443-492C-BED9-42B175B55F81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7E2D034-7443-492C-BED9-42B175B55F81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7E2D034-7443-492C-BED9-42B175B55F81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7E2D034-7443-492C-BED9-42B175B55F81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1939EC5-11F2-415D-88A9-77D13E6BDE52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1939EC5-11F2-415D-88A9-77D13E6BDE52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1939EC5-11F2-415D-88A9-77D13E6BDE52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1939EC5-11F2-415D-88A9-77D13E6BDE52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{738DAD7C-E711-4C26-A294-F79F639DEB07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{738DAD7C-E711-4C26-A294-F79F639DEB07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{738DAD7C-E711-4C26-A294-F79F639DEB07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{738DAD7C-E711-4C26-A294-F79F639DEB07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
